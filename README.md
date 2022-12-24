@@ -1,7 +1,7 @@
 <div style="text-align: center;">
 <h1>Aniriot</h1>
 
-(<img src="Image/logo-icon.png">)
+<img src="Image/logo-icon.png">
 
 ### Aniriot the ad--free anime streaming website✌️✌️.
 
