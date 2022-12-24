@@ -36,7 +36,7 @@ const ForgotPassword = () => {
           </div>
 
           <h3 className="text-white outfit-medium lg:text-[32px] text-[24px] lg:mb-6 mb-6">
-            Passwort Zurücksetzen
+            Passwort Reset
           </h3>
           {/*username and password fields*/}
           <form className="space-y-6 w-full px-6" action="#" method="POST">
@@ -59,14 +59,14 @@ const ForgotPassword = () => {
                 onClick={resetPassword}
                 className="w-full flex justify-center py-2 mb-4 px-4 border border-transparent rounded-md shadow-sm text-sm outfit-medium text-white bg-redor hover:brightness-125 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-indigo-500"
               >
-                Passwort Zurücksetzen
+                Reset
               </button>
               <Link to="/login">
                 <button
                   type="button"
                   className="w-full flex justify-center py-2 mb-4 px-4 border border-transparent rounded-md shadow-sm text-sm outfit-medium text-white bg-redor hover:brightness-125 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-indigo-500"
                 >
-                  Zurück zum login
+                  Return Login
                 </button>
               </Link>
             </div>
